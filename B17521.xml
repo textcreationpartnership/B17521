@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Ruptures cur['d] by Bartlett of Goodmans-[Fiel]ds, London.</title>
+         </titleStmt>
+         <extent>Approx. 5KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B17521</idno><idno type="EEBO-CITATION">99888923</idno>
+  <idno type="VID">196056</idno>
+  <idno type="EEBO-PROQUEST">2240901900</idno>
+  
+            <idno type="STC">Wing B987B</idno>
+            <idno type="STC">Interim Tract Supplement Guide 551.a.32.[65]</idno>
+            <idno type="STC">ESTC R232525</idno>
+            <idno type="PROQUEST">ocm99888923</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99888923e"/>
+            <note>(EEBO-TCP ; phase 2, no. B17521)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 196056)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; E8:2[64])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Ruptures cur['d] by Bartlett of Goodmans-[Fiel]ds, London.</title>
+               </titleStmt>
+               <extent>1 sheet ([2] p.) : ill.  </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1660?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect: tightly bound with some loss of text.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Advertising --  Medicine --  Early works to 1800.</term>
+               <term type="topical_term">Medicine --  Formulae, receipts, prescriptions --  England --  Early works to 1800.</term>
+               <term type="genre_form">Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-04 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-06 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-06 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="advert">
+            <pb facs="tcp:196056:1"/>
+            <pb facs="tcp:196056:1"/>
+            <head>Ruptures Cur<gap reason="illegible" resp="#murp" extent="2 letters">
+                  <desc>••</desc>
+               </gap> by Bartsett of Goodmans-<gap reason="illegible" resp="#murp" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, London.</head>
+            <p>At the <hi>Golden-Ball,</hi> by th<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <gap reason="illegible" resp="#murp" extent="2 letters">
+                  <desc>••</desc>
+               </gap>vern in <hi>Prescot-Street</hi> the Forenoons; But from Three till Eigh<gap reason="illegible" resp="#murp" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ight at the Golden-Ball and N<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ked Boys against the Rainbow Coffee <gap reason="illegible" resp="#keyers" extent="2 words">
+                  <desc>〈◊◊〉</desc>
+               </gap> Fleet Bridge, except on the real Christian Sabbath, call'd Saturday</p>
+            <p>Men Cured from Forty <gap reason="illegible" resp="#murp" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>enty Nine, which was. always thought <gap reason="illegible" resp="#murp" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> in all AGES</p>
+            <p>Nath. Collyer, Esq; of Hackhu<gap reason="illegible" resp="#murp" extent="1 chunk">
+                  <desc>…</desc>
+               </gap> Kent. Aged 79. Mr. Baker in Lawrence-Pontneys Lane, his <gap reason="illegible" resp="#murp" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+               <gap reason="illegible" resp="#murp" extent="2 letters">
+                  <desc>••</desc>
+               </gap>50 Years standing. Mr. Wier in Beehive-Ally in Holborn, Aged 6<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <gap reason="illegible" resp="#murp" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Piert, Milk-man in St. Catharines Lane. Aged 50. a Triple Rupture.</p>
+            <p>Most of these following can inform you of <gap reason="illegible" resp="#murp" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> I have cured of their Acquaintance in City and Country Mr. King. Mr. Smalley. Mr. B<gap reason="illegible" resp="#murp" extent="1 chunk">
+                  <desc>…</desc>
+               </gap> Cook all of Barnaby-street. Mr. Dubberly in the Maze. Mr. Pain in Tully-street. Mr. E<gap reason="illegible" resp="#murp" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>rslydown. Mr. Hews Rope-maker in Redriff. <hi>Mr.</hi> Childery, Literman of Horsly-down. <gap reason="illegible" resp="#murp" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> and Mr. Young at debtford. Mr. Harris Tinman and Mr. Hudson, silversmith in Wa<gap reason="illegible" resp="#murp" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Mr. Ray Mast-maker at wapping wall. Mrs, Steel, chandler in Ratclif highway. Mr. <gap reason="illegible" resp="#murp" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>, of St. Katharine's Lane. Mr. Mubleston. Barber by the Victualling Office. At the Black <gap reason="illegible" resp="#murp" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Tower Hill. Mr. Edward Kibble. Mrs. Guy. Mrs. F<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ster all of Rosemary Lane. Mr. Fran<gap reason="illegible" resp="#murp" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>
+               <gap reason="illegible" resp="#murp" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>mith in Mansell-street in Goodmans fields. Mr. Gou<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h P<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>inter by white Chapple Churc<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap> George Gibson, at the George, hard by. Mrs. Whiten in Vine-street in the Minories. Mr. <gap reason="illegible" resp="#murp" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>-maker at Aldgate. Mr. Norwood on Dow<g ref="char:EOLhyphen"/>gate Hill. Mr. Stephen Parker Mealman at the <gap reason="illegible" resp="#murp" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>-market by fleet bridge. Mr. Legg Painter against Westminster-Abby. Mrs. North, Butch <gap reason="illegible" resp="#murp" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Westsmithfield. At the Bear in lower Moor<g ref="char:EOLhyphen"/>fields. Mr. Humphry's at Bethnal green. <hi>M<gap reason="illegible" resp="#murp" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap>
+               </hi>
+               <gap reason="illegible" resp="#murp" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>rd in Well-street in Hackney. Mr. Gr<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, Weaver in Browns lane in Spittle-fields. And <gap reason="illegible" resp="#murp" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> and Beadle over against him can inform you of abundance I have cured thereabouts, old an<gap reason="illegible" resp="#murp" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>
+               <gap reason="illegible" resp="#murp" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>. Mr. Ducket in Artillery Lane a viru aller. Mr. Nodes Fishmonger, by Bishopsgate Churc<gap reason="illegible" resp="#murp" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+            </p>
+            <p>I have made the only true Discov<gap reason="illegible" resp="#murp" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>
+               <gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>f the Cause and Cure of Ruptures, I have all Sizes of Spring Trusses <gap reason="illegible" resp="#murp" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>me, Collars and Swings, and other Inventions. I Cure Faults of the T<gap reason="illegible" resp="#murp" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>es, falling out of the Fundament or Womb; and make the Weak Stro<gap reason="illegible" resp="#murp" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>
+               <gap reason="illegible" resp="#murp" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>nd Crooked Strait. I reduce des<g ref="char:EOLhyphen"/>perate Ruptures in a few minutes, <gap reason="illegible" resp="#murp" extent="1 chunk">
+                  <desc>…</desc>
+               </gap> to be Mortal. in a few Hours.</p>
+            <p>RUPTURE and Broken-Bell <gap reason="illegible" resp="#murp" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> only two Words for one thing, and both false; and tho' Doctors and <gap reason="illegible" resp="#murp" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> (time out of Mind) have Wrote and Talked of seven sorts of Ruptu<gap reason="illegible" resp="#murp" extent="2 letters">
+                  <desc>••</desc>
+               </gap> yet it is an Error, for there is no Rupture or breach possible to the Bell<gap reason="illegible" resp="#murp" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>
+               <gap reason="illegible" resp="#murp" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> faults called Ruptures, are only two, <hi>viz.</hi> a Flux or Stretch, and is only <gap reason="illegible" resp="#murp" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> by fit means outwardly apply'd on the part; Inward means are foolish <gap reason="illegible" resp="#murp" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>, and delays dangerous or Mortal.</p>
+            <p>I seldom Visit till <hi>7</hi> at Night, nor <gap reason="illegible" resp="#murp" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> without a Fee, unless Poor; but if the Patient be in Misery or Danger, I <gap reason="illegible" resp="#murp" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+               <gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>mmediately.</p>
+            <p>
+               <figure>
+                  <figDesc>woodcut of naked man</figDesc>
+               </figure> My Anodine Spirit, from 1s. to 3s. the Bottle, Cures the Tooth-Ach and Pain in the Ear in a mi<g ref="char:EOLhyphen"/>nute, Cures Sore Eyes, and Scald Heads, and easeth the Gout and other Pains outward or inward to a wonder. Helps Weak and Rickety Children, and ha<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h many other singular Vertues as are mention'd in the Bill given with the Bottle.</p>
+            <p>My Spirit used outward on the part, Cold as it is. for Ruptures is 2s. 6d. the Bottle.</p>
+            <p>
+               <figure>
+                  <figDesc>woodcut of naked man</figDesc>
+               </figure> My Essence of Me<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>als from 1<seg rend="sup">•</seg>. to 3s, the B<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tt<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e, Cures Pleurifies wi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ut Bleed<g ref="char:EOLhyphen"/>ing; also Cholick, Pthisick, shortness of Breath, and any inward-Bleeding in a few Minutes.—Also Mad<g ref="char:EOLhyphen"/>ness Despair, and the Jaun<g ref="char:EOLhyphen"/>dice, and Agues and Fe<g ref="char:EOLhyphen"/>vers in a few Days.—And Cures many of the worst Infirmities in Women, Virgins, and Children, and without fail Kills all kind of Wo<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ms.—Dose from 10 drops to two spoonfuls.</p>
+         </div>
+      </body>
+   </text>
+</TEI>
